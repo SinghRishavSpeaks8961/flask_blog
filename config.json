@@ -1,0 +1,22 @@
+{
+
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/meliodas",
+		"prod_uri":"mysql://root:@localhost/meliodas",
+		"fb_url":"https://facebook.com/meliodas",
+		"tw_url":"https://twitter.com/meliodas",
+		"gh_url":"https://github.com/meliodas",
+		"gmail-user":"meliodas8961@gmail.com",
+		"gmail-password":"Rishav@1999",
+		"about-text":"My name is Rishav and i want to be python developer",
+		"no_of_posts":5,
+		"blogn_name":"Meliodas",
+		"login_img":"login.svg",
+		"admin_user":"Rishav",
+		"admin_password":"Meliodas"
+	}
+
+
+}
